@@ -1,0 +1,9 @@
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\obj\Debug\CtoSQLConnections.csprojResolveAssemblyReference.cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\obj\Debug\CtoSQLConnections.Properties.Resources.resources
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\obj\Debug\CtoSQLConnections.csproj.GenerateResource.Cache
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\bin\Debug\CtoSQLConnections.exe.config
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\bin\Debug\CtoSQLConnections.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\bin\Debug\CtoSQLConnections.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\obj\Debug\CtoSQLConnections.exe
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\obj\Debug\CtoSQLConnections.pdb
+C:\Users\Cyberadmin\Desktop\C# Stuff\CtoSQL\CtoSQLConnections\obj\Debug\CtoSQLConnections.resultTB.resources
